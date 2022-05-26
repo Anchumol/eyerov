@@ -1,0 +1,33 @@
+.footer{
+    height:70px;
+    width:100%;
+    background-color:black;
+}
+.MinBox{
+    display: flex;
+}
+
+.IconContiner{
+    color: #FFF;
+}
+.Text2{
+    color: #FFF;
+    margin-left: 370px;
+   padding-top: 10px;
+}
+.Text3{
+    margin-top: 10px;
+    color: #FFF;
+    margin-left: 430px;
+  
+}
+.TextContainer{
+    padding-top: 10px;
+}
+.Text{
+    color: rgb(18, 76, 236);
+}
+.IconContiner{
+    padding-top: 5px;
+    
+}

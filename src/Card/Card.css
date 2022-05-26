@@ -1,0 +1,72 @@
+.MainCard{
+    display: flex;
+    margin-top:30px;
+}
+.LeftCard{
+ 
+    height: 500px;
+    width: 600px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left:5%;
+    border-radius: 5px;
+    display: flex;
+}
+.Content{
+    margin-top:10;
+    margin-left:10px;
+    margin-top:10px;
+    border-bottom-color:grey;
+}
+/* .feilds{
+   
+} */
+.SubCard{
+    color: rgb(27, 141, 216);
+    margin-top: 20px;
+    height: 450px;
+    width: 560px;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-left:4%;
+    border-radius: 5px;
+    border:3px solid rgb(207, 207, 217);
+ 
+}
+.feilds{
+    height: 67px;
+    width: 580px;
+    color: rgb(53, 150, 216);
+    border-bottom-color:grey;
+    border-bottom: .5px solid rgb(163, 157, 157);
+    text-align: left;
+    
+    
+}
+.text{
+  
+    text-align: left;
+     margin-left: 55%;
+    padding-top: 0px;
+    color: Black;
+}
+.Button{
+    margin-top:10px;
+    width: 45%;
+    height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: rgb(243, 73, 186);
+    border-radius: 10px;
+    color:#fff;
+    font-weight: 600;
+    font-style: bold;
+    border: none;
+    font-size: 20px;
+}
+.CardThird{
+    color: rgb(27, 141, 216);
+    margin-top: 20px;
+    height: 450px;
+    width: 560px;
+    background-color: white;
+}
